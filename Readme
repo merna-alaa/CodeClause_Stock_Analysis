@@ -1,0 +1,4 @@
+I created this project (StockAnalysis) in python libraries such as pandas,numpy, seaborn, etc..  using google colab.
+I made this project for CodeClause internship on Linkedin.
+I used Ford, Tesl,GM datasets from kaggle to find relationships between their open and volume to get plotted figures on their most highest profit in specific years.
+I also calculated the daily percentage change using pct_change and Cumulative Daily Returns using cumprod.
